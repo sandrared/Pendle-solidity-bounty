@@ -7,7 +7,7 @@
 ## Function Analysis
 
 ## Code snapshot
-[Download Code](path/to/code/file.zip)
+![Code](kip_snapshot.png)
 
 - **Used call method**: call
 - **Function Name**: sendValue
